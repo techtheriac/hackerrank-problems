@@ -1,1 +1,1 @@
-# hackerrank-prolems
+# hackerrank-problems
